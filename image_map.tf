@@ -1,5 +1,21 @@
 locals { 
   image_map = {
+    R8210-Management = {
+      "us-south" = ""
+      "us-east"  = ""
+      "eu-gb"    = ""
+      "eu-de"    = ""
+      "eu-es"    = ""
+      "jp-tok"   = ""
+      "jp-osa"   = ""
+      "au-syd"   = ""
+      "ca-mon"   = ""
+      "ca-tor"   = ""
+      "in-che"   = ""
+      "in-mum"   = ""
+      "br-sao"   = ""
+    }
+
     R82-Management = {
       "us-south" = ""
       "us-east"  = ""
