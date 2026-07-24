@@ -57,19 +57,5 @@ locals {
       "ca-tor"   = "r038-6e2c6a06-96c1-4f1d-9973-aa1b57d073ce"
       "br-sao"   = "r042-425c8c4d-b21b-4dca-ba83-6f98e40d8eb1"
     }
-
-    R8110-Gateway = {
-      "us-south" = "r006-7297e93d-189f-4f30-ba12-f6cb1b8e0b1a"
-      "us-east"  = "r014-86d9a109-a323-449f-bc65-90b56ccfad6e"
-      "eu-gb"    = "r018-62ac8b9b-c2e3-483c-a6ff-1fbec01d47ed"
-      "eu-de"    = "r010-59e7dfcb-f101-41e1-a97a-b052c3ca531c"
-      "eu-es"    = "r050-6c2d6e5c-2240-4061-92a7-5323eee8a841"
-      "jp-tok"   = "r022-763dad73-89c0-4cff-b24f-2d664429bcff"
-      "jp-osa"   = "r034-848f9d55-8eff-4a20-a4fd-9c99dd22bb49"
-      "au-syd"   = "r026-46f538ee-bab2-45ca-887c-0e93096551dc"
-      "ca-tor"   = "r038-ab318fec-6ffc-4cb4-9011-fcae8457db97"
-      "br-sao"   = "r042-76029b3b-7556-4afa-a6c2-92e25e64f8ef"
-    }
-
   }
 }
