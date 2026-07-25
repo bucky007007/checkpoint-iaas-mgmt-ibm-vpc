@@ -3,7 +3,7 @@ locals {
     R8210-Management = {
       "us-south" = "r006-cf952e22-3914-4d3a-b9c8-37848468fe74"
       "us-east"  = ""
-      "eu-gb"    = ""
+      "eu-gb"    = "r018-1fae89b1-4fbc-4ffa-aaf6-d56c8e2339f0"
       "eu-de"    = "r010-21f6380b-0ae4-42d5-8e8e-55037eca34a2"
       "eu-es"    = ""
       "jp-tok"   = ""
@@ -19,7 +19,7 @@ locals {
     R82-Management = {
       "us-south" = "r006-46c2593b-3344-4ae5-961a-3038ef35cf35"
       "us-east"  = ""
-      "eu-gb"    = ""
+      "eu-gb"    = "r018-6f6ed883-fded-47cf-bef8-abe918d60a67"
       "eu-de"    = "r010-cda5780c-148e-4811-a68c-1a8264eb9fc2"
       "eu-es"    = ""
       "jp-tok"   = ""
