@@ -11,7 +11,7 @@ locals {
       "au-syd"   = "r026-5fd07d5c-24e2-4eaf-9203-c4d526b33130"
       "ca-mon"   = "r058-1a5eb15a-f7e7-4f17-80fc-35cc9655f151"
       "ca-tor"   = "r038-57a67cac-7693-4c21-9c69-dcd1b8836b10"
-      "in-che"   = ""
+      "in-che"   = "r062-08a00b45-862c-40a4-a7e9-2f5265af89da"
       "in-mum"   = ""
       "br-sao"   = "r042-0095b217-822e-46b3-a0d1-fcc0066f90a0"
     }
@@ -27,7 +27,7 @@ locals {
       "au-syd"   = "r026-a011298c-95f2-4a73-a4eb-bed015a3a41e"
       "ca-mon"   = "r058-fc84d77d-4dae-4f96-9a03-4d880c4ea842"
       "ca-tor"   = "r038-e45614dc-e03a-41d8-8f82-4f2227c58724"
-      "in-che"   = ""
+      "in-che"   = "r062-96fd4cf8-8692-4987-a2f7-fedc99519598"
       "in-mum"   = ""
       "br-sao"   = "r042-486d7c4f-041b-404a-8b06-4a8164e0c9d8"
     }
