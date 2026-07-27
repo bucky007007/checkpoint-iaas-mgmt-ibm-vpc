@@ -13,7 +13,7 @@ locals {
       "ca-tor"   = "r038-57a67cac-7693-4c21-9c69-dcd1b8836b10"
       "in-che"   = ""
       "in-mum"   = ""
-      "br-sao"   = ""
+      "br-sao"   = "r042-0095b217-822e-46b3-a0d1-fcc0066f90a0"
     }
 
     R82-Management = {
@@ -29,7 +29,7 @@ locals {
       "ca-tor"   = "r038-e45614dc-e03a-41d8-8f82-4f2227c58724"
       "in-che"   = ""
       "in-mum"   = ""
-      "br-sao"   = ""
+      "br-sao"   = "check-point-r82-security-management"
     }
 
     R8120-Management = {
