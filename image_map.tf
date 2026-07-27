@@ -12,7 +12,7 @@ locals {
       "ca-mon"   = "r058-1a5eb15a-f7e7-4f17-80fc-35cc9655f151"
       "ca-tor"   = "r038-57a67cac-7693-4c21-9c69-dcd1b8836b10"
       "in-che"   = "r062-08a00b45-862c-40a4-a7e9-2f5265af89da"
-      "in-mum"   = ""
+      "in-mum"   = "r066-a1b86fcf-3bdf-4400-a60a-27d77c46cd2e"
       "br-sao"   = "r042-0095b217-822e-46b3-a0d1-fcc0066f90a0"
     }
 
@@ -28,7 +28,7 @@ locals {
       "ca-mon"   = "r058-fc84d77d-4dae-4f96-9a03-4d880c4ea842"
       "ca-tor"   = "r038-e45614dc-e03a-41d8-8f82-4f2227c58724"
       "in-che"   = "r062-96fd4cf8-8692-4987-a2f7-fedc99519598"
-      "in-mum"   = ""
+      "in-mum"   = "r066-14d8572e-3a78-42ee-a227-fb3ce2c91ad6"
       "br-sao"   = "r042-486d7c4f-041b-404a-8b06-4a8164e0c9d8"
     }
 
