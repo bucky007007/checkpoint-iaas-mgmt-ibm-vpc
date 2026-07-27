@@ -2,7 +2,7 @@ locals {
   image_map = {
     R8210-Management = {
       "us-south" = "r006-cf952e22-3914-4d3a-b9c8-37848468fe74"
-      "us-east"  = ""
+      "us-east"  = "r014-f8c15ce2-c324-40b2-bdf9-60aff7a89098"
       "eu-gb"    = "r018-1fae89b1-4fbc-4ffa-aaf6-d56c8e2339f0"
       "eu-de"    = "r010-21f6380b-0ae4-42d5-8e8e-55037eca34a2"
       "eu-es"    = "r050-99ac1dba-8004-4c11-a186-a07fafd3dde3"
@@ -18,7 +18,7 @@ locals {
 
     R82-Management = {
       "us-south" = "r006-46c2593b-3344-4ae5-961a-3038ef35cf35"
-      "us-east"  = ""
+      "us-east"  = "r014-c99ed0b8-a87c-4be8-9a43-20617f5e08ed"
       "eu-gb"    = "r018-6f6ed883-fded-47cf-bef8-abe918d60a67"
       "eu-de"    = "r010-cda5780c-148e-4811-a68c-1a8264eb9fc2"
       "eu-es"    = "r050-34335635-1645-4f60-bee9-da3f7b76385f"
