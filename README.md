@@ -1,9 +1,9 @@
 ![](https://github.com/joe-at-cp/checkpoint-iaas-mgmt-ibm-vpc/blob/master/CloudGuard_IaaS.jpg?v=4&s=100)
 
-# Check Point CloudGuard Security Management
+# Check Point Security Management
 
 ## About
-This template will deploy a new Check Point security management server into an existing VPC environment. This deployment only requires one interface. See below for the prerequisites of this deployment type.
+This template will deploy a new Check Point Security Management server into an existing VPC environment. This deployment only requires one interface. See below for the prerequisites of this deployment type.
 
 ## Before you begin
 If deploying R81.10 image
